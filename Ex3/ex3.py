@@ -2,8 +2,8 @@
 #   COURSE: DATA.ML.200                                      #
 #           Pattern Recognition and Machine Learning         #
 #   Exercise Set 3: Convolutional Neural Network(CNN)        #
-#   CREATOR: MISKA ROMPPAINEN                                #  
-#   STUDENT NUMBER: H274426                                  #
+#   CREATOR: MISKA R.                                        #  
+#   STUDENT NUMBER: *******                                  #
 #   EMAIL: miska.romppainen@tuni.fi                          #
 ##############################################################
 
