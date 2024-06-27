@@ -2,8 +2,8 @@
 #   COURSE: DATA.ML.200                                      #
 #           Pattern Recognition and Machine Learning         #
 #   Exercise Set 2: Multi-layer Percepteron (MLP)            #
-#   CREATOR: MISKA ROMPPAINEN                                #  
-#   STUDENT NUMBER: H274426                                  #
+#   CREATOR: MISKA R.                                        #  
+#   STUDENT NUMBER: **********                               #
 #   EMAIL: miska.romppainen@tuni.fi                          #
 ##############################################################
 
